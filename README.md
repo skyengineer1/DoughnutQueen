@@ -14,13 +14,6 @@ Welcome to **Doughnut Queen**, the tastiest spot on the web for all things dough
 
 ---
 
-## 🖼️ Preview
-
-![Doughnut Queen Screenshot](screenshot.png)  
-*(Add a real screenshot of your website if available)*
-
----
-
 ## 🛠️ Technologies Used
 
 - 💻 **HTML5**  
